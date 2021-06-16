@@ -1,9 +1,10 @@
-<p align = "center">
-### Hi there 👋
 
-### I'm dongcheolpark.
+	
+<p align = "center" >Hi there 👋</p>
+<p align = "center" >I'm dongcheolpark.</p>
+<p align = "center" >🛠My Tech stacks 🛠</p>
 
-### 🛠My Tech stacks 🛠
+
 </p>
 
 <p aling = "center">
