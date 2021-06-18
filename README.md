@@ -1,16 +1,23 @@
 
 	
-<p align = "center" >Hi there 👋</p>
-<p align = "center" >I'm dongcheolpark.</p>
-<p align = "center" >🛠My Tech stacks 🛠</p>
+### Hi there 👋
+### I'm dongcheolpark.
+### 🛠My Tech stacks 🛠
 
-
-</p>
-
-<p aling = "center">
+<p>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Csharp-3766AB?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=white"/></a>&nbsp 
-</p>
+	and more..
+	</p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongcheolpark)](https://github.com/dongcheolpark/github-readme-stats)
+
+> ### my velog 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=head022)](https://velog.io/@head022) 
+ 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=head022)](https://github.com/head022/velog-readme-stats)
+
 
