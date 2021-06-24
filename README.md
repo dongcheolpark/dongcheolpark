@@ -20,4 +20,8 @@
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=head022)](https://github.com/head022/velog-readme-stats)
 
+### contact me
 
+>head02325@soongsil.ac.kr
+>
+>head02325@gmail.com
