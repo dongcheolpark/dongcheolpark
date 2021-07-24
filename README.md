@@ -19,7 +19,7 @@
 > ### my velog 
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=head022)](https://velog.io/@head022) 
  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=head022)](https://github.com/head022/velog-readme-stats)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=head022)](https://velog.io/@head022)
 
 ### contact me
 
