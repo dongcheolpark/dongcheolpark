@@ -13,7 +13,7 @@
 	</p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongcheolpark)](https://github.com/dongcheolpark/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongcheolpark)](https://github.com/dongcheolpark/)
 [![dongcheolpark's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=head022)](https://solved.ac/profile/head022)
 
 > ### my velog 
